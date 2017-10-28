@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333158971521",
+    "firebase_url": "https://prodigylogin.firebaseio.com",
+    "project_id": "prodigylogin",
+    "storage_bucket": "prodigylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333158971521:android:731df8662093b6a1",
+        "android_client_info": {
+          "package_name": "com.example.yasmin.prodigylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333158971521-3f9bgt4mo7rvdgqmev4dil78iou8qmit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yasmin.prodigylogin",
+            "certificate_hash": "dfcd32bc84efdf7672ebdae0b3dbfd90b57e705d"
+          }
+        },
+        {
+          "client_id": "333158971521-nr8e32d6df8248m106q80o1tqm03bfnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywGmrDTkMlkaMnzyjYgYnXEH383kO14k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333158971521-nr8e32d6df8248m106q80o1tqm03bfnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
